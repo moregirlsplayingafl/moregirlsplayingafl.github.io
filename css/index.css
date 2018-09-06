@@ -1,0 +1,26 @@
+#carousel1 {
+  background: url("http://www.vswans.com.au/files/11169502_10205990753122308_5594855597846672958_o.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: 30% 20%;
+}
+
+#carousel2{
+  background: url("");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: 60% 10%;
+
+}
+
+#carousel3{
+  background: url("");
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: 50% 30%;
+
+}
+
+.featurette-heading {
+  margin-top: 0 !important;
+}
